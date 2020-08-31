@@ -21,7 +21,7 @@
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/vuetifyjs"
+        href="https://twitter.com/"
         light
         min-width="168"
         target="_blank"

@@ -39,7 +39,7 @@
         {
           icon: 'mdi-email',
           title: 'Email',
-          text: 'contact@elementalblockchain.com<br>heather@vuetifyjs.com',
+          text: 'contact@elementalblockchain.com',
         },
       ],
     }),

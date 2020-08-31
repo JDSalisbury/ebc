@@ -72,7 +72,6 @@
         'Home',
         'About',
         'Contact',
-        'Pro',
       ],
     }),
   }

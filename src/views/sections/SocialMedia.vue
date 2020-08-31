@@ -16,15 +16,6 @@
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi aspernatur recusandae aut repudiandae illo error obcaecati dolores voluptate, tempore.
       </base-section-heading>
 
-      <a
-        class="d-inline-block mb-8"
-        href="https://vuetifyjs.com"
-        style="text-decoration: none;"
-        target="_blank"
-      >
-        https://vuetifyjs.com
-      </a>
-
       <div class="py-4" />
 
       <v-btn

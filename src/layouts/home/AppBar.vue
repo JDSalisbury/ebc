@@ -11,13 +11,16 @@
         :src="require('@/assets/EBLogo.webp')"
         class="mr-3 hidden-xs-only"
         contain
-        max-width="52"
+        max-width="100"
         width="100%"
       />
 
-      <h1 style="font-size: 3rem">
-        Elemental Blockchain
-      </h1>
+      <base-img
+        :src="require('@/assets/EBLogo.png')"
+        contain
+        max-width="260"
+        width="100%"
+      />
 
       <v-spacer />
 

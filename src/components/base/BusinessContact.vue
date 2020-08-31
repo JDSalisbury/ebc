@@ -48,17 +48,17 @@
         {
           icon: 'mdi-map-marker-outline',
           title: 'Address',
-          text: '8553 N. Beach St. Ste. 227<br>Fort Worth, Texas 76137',
+          text: '1227 Hawthorne Ave.<br>Columbus, Ohio 43203',
         },
         {
           icon: 'mdi-cellphone',
           title: 'Phone',
-          text: '01 (800) 433 744<br>01 (800) 433 633',
+          text: '614.400.4356',
         },
         {
           icon: 'mdi-email',
           title: 'Email',
-          text: 'john@vuetifyjs.com<br>heather@vuetifyjs.com',
+          text: 'contact@elementalblockchain.com<br>heather@vuetifyjs.com',
         },
       ],
     }),

@@ -36,23 +36,23 @@
       cards: [
         {
           icon: 'mdi-keyboard-outline',
-          title: 'Trendy Design',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Crypto Currency',
+          text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt porta elit, ac scelerisque eros ullamcorper vitae.',
         },
         {
           icon: 'mdi-camera-outline',
-          title: 'Photography',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Decentralized',
+          text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt porta elit, ac scelerisque eros ullamcorper vitae.',
         },
         {
           icon: 'mdi-pencil-outline',
-          title: 'Brand Making',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Immutability',
+          text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt porta elit, ac scelerisque eros ullamcorper vitae.',
         },
         {
           icon: 'mdi-puzzle-outline',
           title: '24/7 Support',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt porta elit, ac scelerisque eros ullamcorper vitae.',
         },
       ],
     }),

@@ -1,6 +1,8 @@
 <template>
-    <base-section id='team' space='100'>
-    </base-section>
+  <base-section
+    id="team"
+    space="100"
+  />
 </template>
 
 <script>

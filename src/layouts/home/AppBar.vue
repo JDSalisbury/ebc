@@ -15,7 +15,7 @@
         width="100%"
       />
 
-      <h1 style="font-size: 65px">
+      <h1 style="font-size: 3rem">
         Elemental Blockchain
       </h1>
 

@@ -17,11 +17,9 @@
 
     data: () => ({
       features: [
-        'Zero Installation',
+        'Blockchain Installation',
         'Easy Customization',
-        'User Friendly Design',
-        '24/7 Support Desk',
-        'SEO Optimized',
+        '24/7 Support',
       ],
     }),
   }

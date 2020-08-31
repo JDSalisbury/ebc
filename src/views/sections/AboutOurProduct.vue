@@ -2,8 +2,8 @@
   <base-section id="about-our-product">
     <base-section-heading
       color="grey lighten-2"
-      icon="mdi-vuetify"
-      title="About our Product"
+      icon="mdi-lightbulb-on-outline"
+      title="Services"
     />
 
     <v-container>
@@ -28,21 +28,21 @@
     data: () => ({
       cards: [
         {
-          title: 'Grow your Revenue',
+          title: 'Customize',
           subtitle: 'Best Productivity',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
+          text: 'Customize a crypto-asset mining operation based on your behind the meter costs and available space to maximize profitability.',
           callout: '01',
         },
         {
-          title: 'Affordable Prices',
+          title: 'Installation',
           subtitle: 'Special Offers',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
+          text: 'Our team of experts will manage the end to end process of procurement, installation, and ongoing maintenance of mining equipment and technology so that you don’t have to.',
           callout: '02',
         },
         {
-          title: 'Target Setting',
+          title: 'Liquidate',
           subtitle: 'Income Flow',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
+          text: 'Develop a plan of action to ensure we liquidate newly mined Bitcoins at the most optimally profitable times, but also according to your cashflow needs.',
           callout: '03',
         },
       ],

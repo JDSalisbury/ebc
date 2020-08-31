@@ -8,19 +8,16 @@
       height="80"
     >
       <base-img
-        :src="require('@/assets/logo.svg')"
+        :src="require('@/assets/EBLogo.webp')"
         class="mr-3 hidden-xs-only"
         contain
         max-width="52"
         width="100%"
       />
 
-      <base-img
-        :src="require('@/assets/zero-logo-light.svg')"
-        contain
-        max-width="128"
-        width="100%"
-      />
+      <h1 style="font-size: 65px">
+        Elemental Blockchain
+      </h1>
 
       <v-spacer />
 
